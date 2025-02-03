@@ -24,6 +24,19 @@
  <img src="https://github.com/user-attachments/assets/72cb02a8-80a4-4b71-b4c6-2b6e1a13cf27" width="465" height="205">
  <img src="https://github.com/user-attachments/assets/2be73d3b-7a84-405c-9411-054b2b5d6a76" width="530" height="408"> 
  </a>
+
+
+
+## SETUP
+Node.js 18 + https://nodejs.org/en
+
+```npm i```
+
+```npm start```
+
+`Config edit > .env`
+
+
  
 ## EN
 ## 🔥 Unique Features
